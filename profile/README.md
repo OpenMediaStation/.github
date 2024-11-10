@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/OpenMediaStation">
-    <img src="TODO" alt="Logo" width="200" height="200">
+    <img src="https://openmediastation.org/assets/logo/logo.svg" alt="Logo" width="200" height="200">
   </a>
 
 <br>
@@ -16,7 +16,7 @@ OpenMediaStation is a collection of server and client software to manage and str
 
 ## About The Project 🗺️
 
-TODO
+With this project we want to create a pair of server and client software to let you manage and own your media libary again. This includes movies, shows, books, music and more. Security and privacy are also two of our main goals. If you want to learn more about this project visit our [website](https://openmediastation.org).
 
 ## Contributing ✨
 
